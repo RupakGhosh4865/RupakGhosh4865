@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, I'm RupakGhosh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm RupakGhosh</h1>
+<h3 align="center"> a passionate self-taught mern stack web developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h3>
 
-- 🔭 I’m currently working on **backend projects**
+-  I’m currently studying in **IET LUCKNOW**
 
-- 🌱 I’m currently learning **backend development,node js ,and express js**
+- BRANCH **CSE REGULAR (3RD YEAR)**
 
-- 👯 I’m currently studying in **IET LUCKNOW**
-
-- 🤝 BRANCH **CSE REGULAR (3RD YEAR)**
-
-- 💬 Ask me about **react js,java script,html ,css**
-
-- 📫 How to reach me **2100520100070@ietlucknow.ac.in**
+-  How to reach me **2100520100070@ietlucknow.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
