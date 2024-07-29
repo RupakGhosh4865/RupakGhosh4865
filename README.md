@@ -3,9 +3,9 @@
 
 -  I’m currently studying in **IET LUCKNOW**
 
-- BRANCH **CSE REGULAR (3RD YEAR)**
+- BRANCH **CSE REGULAR [FINAL YEAR]**
 
--  How to reach me **2100520100070@ietlucknow.ac.in**
+-  How to reach me **rupak4865@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
