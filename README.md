@@ -3,7 +3,7 @@
 
 -  I’m currently studying in **IET LUCKNOW**
 
-- BRANCH **CSE REGULAR [FINAL YEAR]**
+- BRANCH **Computer Science and Engineering[FINAL YEAR]**
 
 -  How to reach me **rupak4865@gmail.com**
 
