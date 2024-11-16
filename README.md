@@ -6,6 +6,7 @@
 - BRANCH **Computer Science and Engineering[FINAL YEAR]**
 
 -  How to reach me **rupak4865@gmail.com**
+-  portfolio link **https://rupakghosh.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
