@@ -7,6 +7,7 @@
 
 -  How to reach me **rupak4865@gmail.com**
 -  portfolio link **https://rupakghosh.vercel.app/**
+-  Resume **https://bit.ly/3Defo8R**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
