@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rupak Ghosh</h1>
-<h3 align="center">A Backend Developer and Generative AI Enthusiast from Agartala, Tripura 🇮🇳</h3>
+<h3 align="center">A passionate Backend Developer & GenAI Enthusiast from India</h3>
 
 ---
 
-🎓 Final Year B.Tech CSE student at **Institute of Engineering and Technology, Lucknow**  
+🎓 B.Tech CSE student at **Institute of Engineering and Technology, Lucknow**  
 🎓 **Graduating: June 2025**
 
 💡 Passionate about solving real-world problems with scalable backend systems, automation, and GenAI.  
