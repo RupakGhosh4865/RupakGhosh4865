@@ -1,17 +1,109 @@
-<h1 align="center">Hi, I'm RupakGhosh</h1>
-<h3 align="center"> a passionate self-taught mern stack web developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h3>
+<h1 align="center">Hi 👋, I'm Rupak Ghosh</h1>
+<h3 align="center">A Backend Developer and Generative AI Enthusiast from Agartala, Tripura 🇮🇳</h3>
 
--  I’m currently studying in **IET LUCKNOW**
+---
 
-- BRANCH **Computer Science and Engineering[FINAL YEAR]**
+🎓 Final Year B.Tech CSE student at **Institute of Engineering and Technology, Lucknow**  
+🎓 **Graduating: June 2025**
 
--  How to reach me **rupak4865@gmail.com**
--  portfolio link **https://rupakghosh.vercel.app/**
--  Resume **https://bit.ly/3Defo8R**
+💡 Passionate about solving real-world problems with scalable backend systems, automation, and GenAI.  
+🚀 I love building tools, platforms, and smart AI integrations that help businesses and users achieve more with less.  
+🧠 Currently focused on backend systems, LLM workflows (RAG), and startup product development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+### 🧠 Technical Skills
+
+#### 👨‍💻 Programming Languages:
+`JavaScript`, `TypeScript`, `Python`, `C++`, `C`, `SQL`, `HTML`, `CSS`
+
+#### 🗃️ Databases:
+`MongoDB`, `Prisma`, `Redis`, `MySQL`, `ChromaDB`
+
+#### 🧠 AI & GenAI Tools:
+`OpenAI GPT-4`, `LangChain`, `ChromaDB`, `n8n`, `Cursor IDE`, `Hugging Face Transformers`, `CNN`, `Whisper`
+
+#### 🧩 Frameworks & Libraries:
+`React.js`, `Next.js`, `NextAuth`, `Express.js`, `Node.js`, `Redux Toolkit`, `Apollo Server`, `Tailwind CSS`, `jQuery`, `React Hook Form`
+
+#### 📚 CS Fundamentals:
+`DSA`, `OOP`, `Operating Systems`, `DBMS`, `DAA`
+
+#### 🔧 Dev Tools & Platforms:
+`Git`, `GitHub`, `Postman`, `Appwrite`, `Netlify`, `Cloudinary`, `Vercel`, `VSCode`, `Axios`, `Resend Email API`, `Bubble.io`
+
+#### 🧠 RAG Stack (Retrieval-Augmented Generation):
+`LangChain`, `ChromaDB`, `OpenAI API`, `Prisma ORM`, `FastAPI`, `Vector Embeddings`, `Contextual Prompting`
+
+#### 🗣️ Soft Skills:
+`Leadership`, `Team Collaboration`, `Public Speaking`, `Time Management`
+
+---
+
+### 💼 Experience
+
+#### 🛠️ Backend Developer Intern – [Job Alchemy](#)  
+📅 *Nov 2024 – Mar 2025*  
+- Built a **Chrome extension** to automate job applications using RESTful APIs & OpenAI GPT prompts.  
+- Enabled **one-click job applications**, reducing manual effort by 70%.  
+- Integrated dynamic **CV generation** based on job descriptions.
+
+#### 🧠 Backend Developer Intern – [Sales Up](#)  
+📅 *Nov 2024 – Jan 2025*  
+- Developed a **lead generation system** integrating Gmail, Docs, and n8n workflows.  
+- Built and deployed no-code websites using **Bubble.io**.  
+- Reduced lead response time by 50% through smart automation.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RupakGhosh4865&show_icons=true&theme=radical" alt="Rupak's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RupakGhosh4865&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 💻 Top Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,git,github,vercel,postman,vscode,graphql" />
+</p>
+
+---
+
+### 🧠 AI Tools Used
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=openai" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/121723288?s=200&v=4" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Deep_learning.svg/1920px-Deep_learning.svg.png" height="40"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RupakGhosh4865&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Portfolio & Links
+
+- 🔗 Portfolio: [https://rupakghosh.vercel.app](https://rupakghosh.vercel.app)  
+- 📄 Resume: [https://bit.ly/3Defo8R](https://bit.ly/3Defo8R)  
+- 📧 Email: **rupak4865@gmail.com**
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:rupak4865@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rupak-ghosh4865"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/RupakGhosh4865"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
